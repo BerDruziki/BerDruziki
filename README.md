@@ -1,7 +1,6 @@
-# BerDruziki
+# Hi, I'm Bernardo Druziki, backend developer📚
 
-Cursando Análise e Desenvolvimento de Sistemas💻<br>
-Aluno da Universidade Positivo📚
+Backend dev💻
 
 <div align="center">
   <a href="https://github.com/BerDruziki">
