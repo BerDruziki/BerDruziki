@@ -28,9 +28,7 @@ Backend dev💻
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img style="margin: 10px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>   
  <a href="https://docs.oracle.com/en/java/" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" "/></a>   
- <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </a>   
-  <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </a>   
-  <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </a>   
+ <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>   
 </div>
 </td><td valign="top" width="33%">
 
