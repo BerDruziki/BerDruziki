@@ -50,6 +50,9 @@ Backend dev💻
 
 <br/>  
 
-                                                                                                                                                   
+<div align="right">
+  <img src="https://media.giphy.com/media/STVtNV2SwoZ6M/giphy.gif" width="180" height="120">
+</div>   
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                                                                                  
 </div>                                                                                                                                                                                                     
