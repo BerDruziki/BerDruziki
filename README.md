@@ -1,4 +1,4 @@
-# Hi, I'm Bernardo Druziki, backend developer📚
+# Hi, I'm Bernardo Druziki, Software Engineer📚
 
 Backend dev💻
 
