@@ -30,14 +30,15 @@ Backend dev💻
  <a href="https://docs.oracle.com/en/java/" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="50" alt="java"/></a>   
  <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank"><img style="margin: 10px" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="php"/></a>   
 </div>
-
+   </td><td valign="top" width="33%">  
+     
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 </div>
-   </td><td valign="top" width="33%">                                                                                                                                             
+                                                                                                                                           
           
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                                                                                    
 </div>                                                                                                                                                                                                      
