@@ -47,12 +47,11 @@ Backend dev💻
 </div>
 
 </td></tr></table>  
-
-<br/>  
+<br/>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/STVtNV2SwoZ6M/giphy.gif" width="180" height="120">
+  <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="180" height="120">
 </div>   
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                                                                                  
-</div>                                                                                                                                                                                                     
+</div>                                                                                                                                                                                     
