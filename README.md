@@ -11,8 +11,9 @@ Backend dev💻 🇧🇷 🇺🇸 🇪🇸 🇫🇷
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <h3>Frontend</h3>
+  <!-- Frontend Box -->
+  <div style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; min-width: 250px; text-align: center; background-color: #333;">
+    <h3 style="color: white;">Frontend</h3>
     <div>
       <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -20,8 +21,9 @@ Backend dev💻 🇧🇷 🇺🇸 🇪🇸 🇫🇷
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <h3>Backend</h3>
+  <!-- Backend Box -->
+  <div style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; min-width: 250px; text-align: center; background-color: #333;">
+    <h3 style="color: white;">Backend</h3>
     <div>
       <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
       <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
@@ -32,8 +34,9 @@ Backend dev💻 🇧🇷 🇺🇸 🇪🇸 🇫🇷
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <h3>DevOps</h3>
+  <!-- DevOps Box -->
+  <div style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; min-width: 250px; text-align: center; background-color: #333;">
+    <h3 style="color: white;">DevOps</h3>
     <div>
       <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
       <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -42,4 +45,3 @@ Backend dev💻 🇧🇷 🇺🇸 🇪🇸 🇫🇷
   </div>
 
 </div>
-                                                                                                                                                               
