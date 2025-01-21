@@ -1,6 +1,6 @@
 # Hi, I'm Bernardo Druziki, Software Engineer📚
 
-Backend dev💻
+Backend dev💻 |  🇧🇷 🇺🇸 🇪🇸 🇫🇷
 
 <div align="center">
   <a href="https://github.com/BerDruziki">
