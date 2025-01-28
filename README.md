@@ -50,4 +50,9 @@ Backend dev💻 |  🇧🇷 🇺🇸 🇪🇸 🇫🇷
 <br/>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                                                                                  
-</div>                      
+</div>        
+
+## Redes sociais
+<div> 
+  <a href="https://instagram.com/berdruziki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
