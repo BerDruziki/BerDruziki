@@ -4,6 +4,20 @@ Backend dev💻 |  🇧🇷 🇺🇸 🇪🇸 🇫🇷
 
 ---
 
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=BerDruziki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerDruziki&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BerDruziki&theme=tokyonight&hide_border=true"/>
+</div>
+
 ### 🎨 Frontend
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
